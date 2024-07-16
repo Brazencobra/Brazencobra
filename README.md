@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brazencobra&label=Profile%20views&color=0e75b6&style=flat" alt="brazencobra" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Advanced Back-End**
 
 - 📫 How to reach me **www.instagram.com/eko_memmedoff**
 
